@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides descriptions of the three principal assignments
+  for the course. They include: Weekly Memos, Research Proposal, and Peer Memos.'
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

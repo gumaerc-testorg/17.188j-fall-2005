@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations for required books and the schedule of
+  readings by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
